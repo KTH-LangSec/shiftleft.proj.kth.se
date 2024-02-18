@@ -1,3 +1,5 @@
+![shiftleft](ShiftLeft-figure.png)
+
 # ShiftLeft: Securing the Software Supply Chain by Code-centric Analysis
 
 The ShiftLeft project seeks to transform the security of Software Supply Chains (SSCs) by introducing a declarative code-centric platform supporting continuous security analysis. It incorporates foundational frameworks, novel abstractions combining static and dynamic techniques, and human-in-the-loop feedback with AI-driven prioritization metrics. The project's objectives include developing expressive security models, building a scalable security analysis platform, and creating an open-source security dashboard integrated into the software development lifecycle for real-world SSCs.
@@ -7,6 +9,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 # News Corner
 - We are looking for a PhD student at Chalmers. Deadline: March 23, 2024 - [Apply now](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=12605&rmlang=GB)
 - We are looking for a PhD student at KTH. Deadline: March 29, 2024 - [Apply now](https://kth.varbi.com/en/what:job/jobID:698123/type:job/where:4/apply:1)
+- ShiftLeft's PI [Rebekka Wohlrab](https://rebekkaa.github.io/) awarded by  [WASP](https://wasp-sweden.org/) as Alumni of the Year for outstanding research in the engineering of self-adaptive systems. Congratulations Rebekka.  
 - We are recruiting PhD students, postdocs, and research engineers, [Get in touch!](mailto:musard@kth.se,dave@chalmers.se,alexandre.bartel@umu.se,christoph.reichenbach@cs.lth.se,wohlrab@chalmers.se)
 
 # Team ShiftLeft
