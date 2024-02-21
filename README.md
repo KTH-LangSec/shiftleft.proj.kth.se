@@ -1,4 +1,6 @@
-![shiftleft](ShiftLeft-figure.png)
+<div align="center">
+  <img alt="shiftleft" src="ShiftLeft-figure.png">
+</div>
 
 # ShiftLeft: Securing the Software Supply Chain by Code-centric Analysis
 
