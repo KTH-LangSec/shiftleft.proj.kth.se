@@ -10,8 +10,8 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 
 # News Corner
 - We are looking for a PhD student at Lund University.  Deadline: 30 April 2024 - [Apply now](https://lu.varbi.com/en/what:job/jobID:711118/type:job/where:4/apply:1)
+- We are looking for a PhD student at KTH. Deadline: April 30, 2024 - [Apply now](https://kth.varbi.com/en/what:job/jobID:698123/type:job/where:4/apply:1)
 - We are looking for a PhD student at Chalmers. Deadline: April 2, 2024 - [Apply now](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=12605&rmlang=GB)
-- We are looking for a PhD student at KTH. Deadline: March 29, 2024 - [Apply now](https://kth.varbi.com/en/what:job/jobID:698123/type:job/where:4/apply:1)
 - ShiftLeft's PI [Rebekka Wohlrab](https://rebekkaa.github.io/) awarded by WASP as [Alumni of the Year 2023](https://wasp-sweden.org/rebekka-wohlrab-wasp-alumni-of-the-year-2023/) for outstanding research in the engineering of self-adaptive systems. Congratulations Rebekka.  
 - We are recruiting PhD students, postdocs, and research engineers, [Get in touch!](mailto:musard@kth.se,dave@chalmers.se,alexandre.bartel@umu.se,christoph.reichenbach@cs.lth.se,wohlrab@chalmers.se)
 
