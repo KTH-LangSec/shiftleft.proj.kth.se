@@ -27,5 +27,5 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 
 # Software and Datasets
 - [Dasty -  detecting prototype pollution gadgets detection in Node.js applications](https://github.com/KTH-LangSec/Dasty)
-- [Silent Spring] (https://github.com/KTH-LangSec/silent-spring)
-- [Dataset of Server-Side Prototype Pollution vulnerabilities] (https://github.com/KTH-LangSec/server-side-prototype-pollution)
+- [Silent Spring](https://github.com/KTH-LangSec/silent-spring)
+- [Dataset of Server-Side Prototype Pollution vulnerabilities](https://github.com/KTH-LangSec/server-side-prototype-pollution)
