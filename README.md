@@ -24,6 +24,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 
 # Publications
 - [Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis](https://arxiv.org/pdf/2311.03919.pdf) Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu. In Proceedings of the Web Conference (WWW'24), 2024.
+- [GHunter: Universal Prototype Pollution Gadgets in JavaScript Runtimes](https://arxiv.org/pdf/2407.10812) Eric Cornelissen, Mikhail Shcherbakov, Musard Balliu. Usenix Security 2024.
 
 # Software and Datasets
 - [Dasty -  detecting prototype pollution gadgets detection in Node.js applications](https://github.com/KTH-LangSec/Dasty)
