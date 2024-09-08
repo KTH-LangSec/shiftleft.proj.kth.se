@@ -9,9 +9,16 @@ The ShiftLeft project seeks to transform the security of Software Supply Chains 
 ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) via the [NEST (Novelty, Excellence, Synergy, and Teams) ](https://wasp-sweden.org/calls/call-for-nests-in-cyber-security/) instrument. The project is lead by the PI, Prof. Musard Balliu (KTH Royal Institute of Technology). The co-PIs are Prof. Alexandre Bartel (Umeå University), Prof. Christoph Reichenbach (Lund University), Prof. David Sands and Prof. Rebekka Wohlrab (Chalmers University of Technology). The industrial partners are Cparta Cyber Defense, Debricked, Ericsson, Recorded Futures, and SEB. 
 
 # News Corner
+2024/08
+- [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/) joined the project as a Postdoctoral researcher under the supervision of [Rebekka Wohlrab](https://rebekkaa.github.io/).
+- [SiKai Lu](https://www.kth.se/profile/sikai) joined the project as a doctoral student. He will be supervised by [Musard Balliu](https://people.kth.se/~musard/).
+   
+2024/04
 - We are looking for a PhD student at Lund University.  Deadline: 30 April 2024 - [Apply now](https://lu.varbi.com/en/what:job/jobID:711118/type:job/where:4/apply:1)
 - We are looking for a PhD student at KTH. Deadline: April 30, 2024 - [Apply now](https://kth.varbi.com/en/what:job/jobID:698123/type:job/where:4/apply:1)
 - We are looking for a PhD student at Chalmers. Deadline: April 2, 2024 - [Apply now](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=12605&rmlang=GB)
+
+2024/03 
 - ShiftLeft's PI [Rebekka Wohlrab](https://rebekkaa.github.io/) awarded by WASP as [Alumni of the Year 2023](https://wasp-sweden.org/rebekka-wohlrab-wasp-alumni-of-the-year-2023/) for outstanding research in the engineering of self-adaptive systems. Congratulations Rebekka.  
 - We are recruiting PhD students, postdocs, and research engineers, [Get in touch!](mailto:musard@kth.se,dave@chalmers.se,alexandre.bartel@umu.se,christoph.reichenbach@cs.lth.se,wohlrab@chalmers.se)
 
@@ -21,6 +28,11 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Christoph Reichenbach](https://creichen.net/)
 - [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html)
 - [Rebekka Wohlrab](https://rebekkaa.github.io/)
+- [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/)
+- [SiKai Lu](https://www.kth.se/profile/sikai) 
+
+# Mailing List 
+If you are interested in kepping tab on our research, feel free to drop an email to [SiKai Lu](https://www.kth.se/profile/sikai) and ask him to add your name on the mailing list. Also, please don't be hesitant to send an email to [shiftleft@kth.se](mailto:shiftleft@kth.se) if you feel the need of contacting us.
 
 # Publications
 - [Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis](https://arxiv.org/pdf/2311.03919.pdf) Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu. In Proceedings of the Web Conference (WWW'24), 2024.
