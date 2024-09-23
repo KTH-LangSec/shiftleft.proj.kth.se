@@ -23,7 +23,7 @@
 ---
 
 **Contact:**  
-For more information, please contact **Musard Balliu** at **Musard@kth.se** and **SiKai Lu** at **sikai@kth.se**.  
+For more information, please contact **Musard Balliu** at **musard@kth.se** and **SiKai Lu** at **sikai@kth.se**.  
 
 
 # Supporting Institutions
