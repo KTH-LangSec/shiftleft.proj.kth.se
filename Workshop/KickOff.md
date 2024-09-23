@@ -25,3 +25,33 @@
 **Contact:**  
 For more information, please contact **Musard Balliu** at **Musard@kth.se** and **SiKai Lu** at **sikai@kth.se**.  
 
+
+# Supporting Institutions
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
+<div style="flex: 1; text-align: center; padding: 10px;">
+    <a href="https://wasp-sweden.org/" target="_blank">
+      <img src="https://wasp-sweden.org/wp-content/themes/wasp/assets/img/logo.png" alt="WASP" style="max-width: 200px;">
+    </a>
+  </div>
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <a href="https://www.kth.se/" target="_blank">
+      <img src="https://wasp-sweden.org/wp-content/uploads/2019/05/kth.png" alt="KTH" style="max-width: 100px;">
+    </a>
+  </div>
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <a href="http://www.chalmers.se/" target="_blank">
+      <img src="https://wasp-sweden.org/wp-content/uploads/2019/05/chalmers1.png" alt="Chalmers University of Technology" style="max-width: 100px;">
+    </a>
+  </div>
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <a href="http://www.lth.se/" target="_blank">
+      <img src="https://wasp-sweden.org/wp-content/uploads/2019/05/lunds1.png" alt="Lunds University" style="max-width: 100px;">
+    </a>
+  </div>
+  <div style="flex: 1; text-align: center; padding: 10px;">
+    <a href="http://www.umu.se/" target="_blank">
+    <img src="https://wasp-sweden.org/wp-content/uploads/2019/05/umea-200x200.png" alt="Umeå University" style="max-width: 100px;">
+    </a>
+  </div>
+</div>
+

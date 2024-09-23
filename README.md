@@ -9,7 +9,7 @@ The ShiftLeft project seeks to transform the security of Software Supply Chains 
 ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Program (WASP)](https://wasp-sweden.org/) via the [NEST (Novelty, Excellence, Synergy, and Teams) ](https://wasp-sweden.org/calls/call-for-nests-in-cyber-security/) instrument. The project is lead by the PI, Prof. Musard Balliu (KTH Royal Institute of Technology). The co-PIs are Prof. Alexandre Bartel (Umeå University), Prof. Christoph Reichenbach (Lund University), Prof. David Sands and Prof. Rebekka Wohlrab (Chalmers University of Technology). The industrial partners are Cparta Cyber Defense, Debricked, Ericsson, Recorded Futures, and SEB. [Read more](https://wasp-sweden.org/nest-project-shiftleft-securing-the-software-supply-chain-by-code-centric-analysis/) 
 
 # News Corner
-
+- We are excited to host the kickoff workshop for the ShiftLeft project on October 25, 2024, at Cybercampus Sverige. [Read More](./Workshop/KickOff.md)    
 - [SiKai Lu](https://www.kth.se/profile/sikai) joined the project as a doctoral student. He will be supervised by [Musard Balliu](https://people.kth.se/~musard/).
 - [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/) joined the project as a Postdoctoral researcher hosted by [Rebekka Wohlrab](https://rebekkaa.github.io/).
 - ShiftLeft's PI [Rebekka Wohlrab](https://rebekkaa.github.io/) awarded by WASP as [Alumni of the Year 2023](https://wasp-sweden.org/rebekka-wohlrab-wasp-alumni-of-the-year-2023/) for outstanding research in the engineering of self-adaptive systems. Congratulations Rebekka.  
