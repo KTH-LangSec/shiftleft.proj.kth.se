@@ -45,7 +45,7 @@ If you are interested in keepping tab on our research, feel free to drop an emai
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
 <div style="flex: 1; text-align: center; padding: 10px;">
     <a href="https://wasp-sweden.org/" target="_blank">
-      <img src="https://wasp-sweden.org/wp-content/themes/wasp/assets/img/logo.png" alt="WASP" style="max-width: 150px;">
+      <img src="https://wasp-sweden.org/wp-content/themes/wasp/assets/img/logo.png" alt="WASP" style="max-width: 200px;">
     </a>
   </div>
   <div style="flex: 1; text-align: center; padding: 10px;">
