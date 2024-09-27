@@ -18,12 +18,12 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 # Team ShiftLeft
 - Principal Investigators: [Musard Balliu](https://people.kth.se/~musard/), [Alexandre Bartel](https://www.abartel.net/), [Christoph Reichenbach](https://creichen.net/), [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html), [Rebekka Wohlrab](https://rebekkaa.github.io/)
 - PostDocs: [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/)
-- PhD students: [Eric Cornelissen](https://www.kth.se/profile/ericco), [SiKai Lu](https://www.kth.se/profile/sikai), [Mikhail Shcherbakov](https://www.kth.se/profile/mshc)
+- PhD students: [Eric Cornelissen](https://www.kth.se/profile/ericco), [SiKai Lu](https://www.kth.se/profile/sikai), [Mikhail Shcherbakov](https://www.kth.se/profile/mshc), Erik Söderholm Präntare
 - Research assistants: [Diogo Torres Correia](https://www.kth.se/profile/diogotc)
 
 # Open Positions
 - We are continuously looking for PhD students, postdocs, and research engineers [Get in touch!](mailto:musard@kth.se,dave@chalmers.se,alexandre.bartel@umu.se,christoph.reichenbach@cs.lth.se,wohlrab@chalmers.se)
-- We are looking for a PhD student at Lund University.  Deadline: 30 April 2024 - [Apply now](https://lu.varbi.com/en/what:job/jobID:711118/type:job/where:4/apply:1) (Closed)
+- We are looking for a PhD student at Lund University.  Deadline: 30 April 2024 - (Closed)
 - We are looking for a PhD student at KTH. Deadline: April 30, 2024 - [Apply now](https://kth.varbi.com/en/what:job/jobID:698123/type:job/where:4/apply:1) (Closed)
 - We are looking for a PhD student at Chalmers. Deadline: April 2, 2024 - [Apply now](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/?rmpage=job&rmjob=12605&rmlang=GB) (Closed)
 
