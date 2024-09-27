@@ -1,5 +1,5 @@
-# ShiftLeft Workshop  
-**Date:** October 25, 2024  
+# ShiftLeft Workshop
+**Date:** October 25, 2024
 **Location:** Cybercampus Sverige, Stockholm
 
 ---
@@ -22,8 +22,8 @@
 
 ---
 
-**Contact:**  
-For more information, please contact **Musard Balliu** at **musard@kth.se** and **SiKai Lu** at **sikai@kth.se**.  
+**Contact:**
+For more information, please contact **Musard Balliu** at **musard@kth.se** and **SiKai Lu** at **sikai@kth.se**.
 
 
 # Supporting Institutions
