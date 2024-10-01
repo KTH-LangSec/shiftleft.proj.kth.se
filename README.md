@@ -34,12 +34,16 @@ If you are interested in keepping tab on our research, feel free to drop an emai
 - [Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis](https://people.kth.se/~musard/research/pubs/www24.pdf) Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu. The Web Conference (WWW'24), 2024.
 - [GHunter: Universal Prototype Pollution Gadgets in JavaScript Runtimes](https://people.kth.se/~musard/research/pubs/usenix24.pdf) Eric Cornelissen, Mikhail Shcherbakov, Musard Balliu. Usenix Security Symposium (Usenix Sec'24), 2024.
 - [Analyzing Prerequisites of known Deserialization Vulnerabilities on Java Applications](https://www.abartel.net/static/p/ease2024-javaDeser.pdf) Bruno Kreyßig, Alexandre Bartel. International Conference on Evaluation and Assessment in Software Engineering (EASE'24), 2024.
+- [Clog: A Declarative Language for C Static Code Checkers](https://dl.acm.org/doi/pdf/10.1145/3640537.3641579) Alexandru Dura, Christoph Reichenbach. International Conference on Compiler Construction (CC'24), 2024.
+- [JavaDL: Automatically Incrementalizing Java Bug Pattern Detection](https://creichen.net/papers/javadl.pdf) Alexandru Dura, Christoph Reichenbach, Emma Söderberg. in Proceedings of the ACM on Programming Languages (OOPSLA'21), 2021
 
 # Software and Datasets
 - [Dasty](https://github.com/KTH-LangSec/Dasty)
 - [Silent Spring](https://github.com/KTH-LangSec/silent-spring)
 - [Dataset of Server-Side Prototype Pollution vulnerabilities](https://github.com/KTH-LangSec/server-side-prototype-pollution)
-
+- [Clog](https://github.com/lu-cs-sde/clog)
+- [JavaDL](https://github.com/lu-cs-sde/metadl)
+- [ExtendJ Extensible Java Compiler](https://extendj.org/)
 
 # Supporting Institutions
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
