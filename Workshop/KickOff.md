@@ -12,7 +12,7 @@
 | **9:15**   | A round of introductions                                                                    |
 | **9:45**   | Overview of ShiftLeft                                                                       |
 | **10:30**  | Coffee break                                                                                 |
-| **11:00**  | To Be Announced |
+| **11:00**  | Talk: "A Declarative View on Shifting Left: Opportunities and Challenges" (Christoph) |
 | **12:00**  | Lunch at **Syster o Bror**                                                                       |
 | **13:15**  | To Be Announced |
 | **14:00**  | To Be Announced |
