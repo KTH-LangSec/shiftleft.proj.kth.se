@@ -17,7 +17,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 
 # Team ShiftLeft
 - Principal Investigators: [Musard Balliu](https://people.kth.se/~musard/), [Alexandre Bartel](https://www.abartel.net/), [Christoph Reichenbach](https://creichen.net/), [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html), [Rebekka Wohlrab](https://rebekkaa.github.io/)
-- PostDocs: [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/)
+- PostDocs: [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/), [Timothé Riom](https://www.umu.se/en/staff/timothee-riom/)
 - PhD students: [Eric Cornelissen](https://www.kth.se/profile/ericco), [SiKai Lu](https://www.kth.se/profile/sikai), [Mikhail Shcherbakov](https://www.kth.se/profile/mshc), [Erik Söderholm Präntare](https://portal.research.lu.se/sv/persons/erik-s%C3%B6derholm-pr%C3%A4ntare)
 - Research assistants: [Diogo Torres Correia](https://www.kth.se/profile/diogotc)
 
