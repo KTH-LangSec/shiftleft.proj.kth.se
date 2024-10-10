@@ -12,10 +12,10 @@
 | **09:00** | Welcome and short intro to Cybercampus Sverige ([Musard Balliu](https://people.kth.se/~musard/) & [David Olgart](https://www.kth.se/profile/olgart))           |
 | **09:15** | A round of introductions                                                                                                                                       |
 | **09:30** | Talk [Musard Balliu](https://people.kth.se/~musard/) Overview of ShiftLeft                                                                                     |
-| **10:00** | Talk [Eric Cornelissen](https://www.kth.se/profile/ericco): Securing JavaScript Supply Chain with Sandboxing                                                   |
+| **10:00** | Talk  [Christoph Reichenbach](https://creichen.net/) : Cross-Cutting Concerns in Declarative Program Analysis                  |
 | **10:30** | Coffee break                                                                                                                                                   |
 | **11:00** | Security analysis and foundations, chair: [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html)                                      |
-|           | Talk 1 [Christoph Reichenbach](https://creichen.net/) : Cross-Cutting Concerns in Declarative Program Analysis                                                 |
+|           | Talk 1 [Eric Cornelissen](https://www.kth.se/profile/ericco): Securing JavaScript Supply Chain with Sandboxing                                                 |
 |           | Talk 2 [Timothé Riom](https://www.umu.se/en/staff/timothee-riom/): An In-Depth Analysis of Android's Java Class Library: its Evolution and Security Impact     |
 |           | Talk 3 [Mohammad Ahmadpanah](https://research.chalmers.se/en/person/meseyed): CodeX: Contextual Flow Tracking for Browser Extensions                           |
 | **12:00** | Lunch at **Syster o Bror**                                                                                                                                     |
@@ -28,7 +28,7 @@
 |           | Recorded Future 15 mins                                                                                                                                        |
 |           | Cparta Cyber Defense 15 mins                                                                                                                                   |
 | **15:00** | Coffee break                                                                                                                                                   |
-| **15:30** | Discussion and further planning, Chair                                                                                                                         |
+| **15:30** | Discussion and further planning, chair: [Musard Balliu](https://people.kth.se/~musard/)                                                                                                                          |
 | **16:00** | End of workshop                                                                                                                                                |
 
 ---
