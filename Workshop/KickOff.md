@@ -6,20 +6,29 @@
 
 ## Preliminary Agenda
 
-| **Time**   | **Agenda**                                                                                 |
-|------------|---------------------------------------------------------------------------------------------|
-| **9:00**   | Welcome and short intro to Cybercampus Sverige (Musard & David Olgart)                       |
-| **9:15**   | A round of introductions                                                                    |
-| **9:45**   | Overview of ShiftLeft                                                                       |
-| **10:30**  | Coffee break                                                                                 |
-| **11:00**  | Talk: "A Declarative View on Shifting Left: Opportunities and Challenges" (Christoph) |
-| **12:00**  | Lunch at **Syster o Bror**                                                                       |
-| **13:15**  | To Be Announced |
-| **14:00**  | To Be Announced |
+| **Time**   | **Agenda**                                                                                   |
+|------------|----------------------------------------------------------------------------------------------|
+| **09:00**  | Welcome and short intro to Cybercampus Sverige ([Musard Balliu](https://people.kth.se/~musard/) & [David Olgart](https://www.kth.se/profile/olgart))               |
+| **09:15**  | A round of introductions                                                                    |
+| **09:30**  | Talk [Musard Balliu](https://people.kth.se/~musard/) Overview of ShiftLeft                                            |
+| **10:00**  | Talk [Eric Cornelissen](https://www.kth.se/profile/ericco): Securing JavaScript Supply Chain with Sandboxing                    |
+| **10:30**  | Coffee break                                                                                |
+| **11:00**  | Security analysis and foundations, chair: [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html)                              |
+|            | Talk 1 [Christoph Reichenbach](https://creichen.net/) : Cross-Cutting Concerns in Declarative Program Analysis        |
+|            | Talk 2 [Timothé Riom](https://www.umu.se/en/staff/timothee-riom/): An In-Depth Analysis of Android's Java Class Library: its Evolution and Security Impact |
+|            | Talk 3 [Mohammad Ahmadpanah](https://research.chalmers.se/en/person/meseyed): CodeX: Contextual Flow Tracking for Browser Extensions          |
+| **12:00**  | Lunch at **Syster o Bror**                                                                  |
+| **13:15**  | Usability and Human-in-the-loop, chair: [Christoph Reichenbach](https://creichen.net/)                        |
+|            | Talk 1: [Rebekka Wohlrab](https://rebekkaa.github.io/): Human-in-the-loop solutions for self-adaptive software systems                                                                                                    |
+|            |  Talk 2: [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/): Developers’ Needs for Software Supply Chain Tooling: Insights from an Interview Study | 
+| **14:00**  |  Use cases and demonstrators, chair:  [Rebekka Wohlrab](https://rebekkaa.github.io/) | 
+|  | Debricked 15 mins |
+|  | Ericsson  15 mins |
+|  | Recorded Future 15 mins | 
+|  | Cparta Cyber Defense 15 mins |  
 | **15:00**  | Coffee break                                                                                 |
 | **15:30**  | Discussion and further planning, Chair                                                       |
 | **16:00**  | End of workshop                                                                              |
-
 ---
 
 **Contact:**
