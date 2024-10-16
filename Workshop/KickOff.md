@@ -1,7 +1,7 @@
 # ShiftLeft Workshop
 
 **Date:** October 25, 2024
-**Location:** Cybercampus Sverige, Stockholm
+**Location:** [Multihallen (Z21), located at Valhallavägen 79a, Cybercampus Sverige, Stockholm, Sweden](https://www.kth.se/places/room/id/fb8b8ebc-b599-44e4-b114-71774600ad9b)
 
 ---
 
