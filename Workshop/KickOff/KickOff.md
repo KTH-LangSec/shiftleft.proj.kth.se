@@ -16,7 +16,7 @@
 | **10:30** | Coffee break                                                                                                                                                   |
 | **11:00** | Security analysis and foundations, chair: [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html)                                      |
 |           | Talk 1 [Eric Cornelissen](https://www.kth.se/profile/ericco): Securing JavaScript Supply Chain with Sandboxing [Detail](./eric.pdf)                                                | 
-|           | Talk 2 [Timothé Riom](https://www.umu.se/en/staff/timothee-riom/): An In-Depth Analysis of Android's Java Class Library: its Evolution and Security Impact     |
+|           | Talk 2 [Timothé Riom](https://www.umu.se/en/staff/timothee-riom/): An In-Depth Analysis of Android's Java Class Library: its Evolution and Security  Impact [Detail](./WASPShiftleft24_Androids_Java.pdf)  |
 |           | Talk 3 [Mohammad Ahmadpanah](https://research.chalmers.se/en/person/meseyed): CodeX: Contextual Flow Tracking for Browser Extensions  [Detail](./Mohammad.pdf)                         |
 | **12:00** | Lunch at **Syster o Bror**                                                                                                                                     |
 | **13:15** | Usability and Human-in-the-loop, chair: [Christoph Reichenbach](https://creichen.net/)                                                                         |
