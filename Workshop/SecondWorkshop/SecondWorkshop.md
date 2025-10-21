@@ -1,6 +1,8 @@
 # ShiftLeft Second Annual Workshop 
 
-**Date:** October 27, 2025 
+**Date:** October 27, 2025
+
+
 **Location:** [Chalmerska Hus, Södra Hamngatan 11, 411 14 Göteborg](https://chalmers.ungapped.io/Events/03a9b9aa-a642-4827-80c5-cd9f4a904cb1)
 
 ---
@@ -46,11 +48,12 @@
 | **15:30–15:50** | — | — | Discussion | 20 min |
 | **15:50–16:00** | — | — | Closing Remarks | 10 min |
 
----
+
+--- 
 
 **Contact:**  
 For more information, please contact **David Sands** at **dave@chalmers.se** and **Musard Balliu** at **musard@kth.se**.
----
+
 
 # Supporting Institutions
 
