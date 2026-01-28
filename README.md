@@ -56,6 +56,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Analyzing Prerequisites of known Deserialization Vulnerabilities on Java Applications](https://www.abartel.net/static/p/ease2024-javaDeser.pdf) Bruno Kreyßig, Alexandre Bartel. International Conference on Evaluation and Assessment in Software Engineering (**EASE’24**), June 2024.
 - [Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis](https://people.kth.se/~musard/research/pubs/www24.pdf) Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu. The Web Conference (**WWW'24**), May 2024.
 - [Clog: A Declarative Language for C Static Code Checkers](https://dl.acm.org/doi/10.1145/3640537.3641579) Dura, Alexandru and Reichenbach, Christoph. The 33rd ACM SIGPLAN International Conference on Compiler Construction (**CC'24**), February 2024.
+
 # Artifacts 
 - [Dasty](https://github.com/KTH-LangSec/Dasty)
 - [Silent Spring](https://github.com/KTH-LangSec/silent-spring)
