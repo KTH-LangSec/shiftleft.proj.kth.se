@@ -36,7 +36,9 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [To Secure a Flow: From Specification to Enforcement of Information Flow Control](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1937581&dswid=-3679), Amir M. Ahmadian, **PhD Thesis**, March 2025.
 - [Code-Reuse Attacks in Managed Programming Languages and Runtimes](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1905323&dswid=-4319), Mikhail Shcherbakov, **PhD Thesis**, November 2024.
 - [Towards Declarative Specification of Static Analysis for Programming Tools](https://lucris.lub.lu.se/ws/portalfiles/portal/197490004/Riouak.pdf), Idriss Riouak, **PhD Thesis**, November 2024.
+
 ## Research Papers
+
 ### 2025
 - [NodeShield: Runtime Enforcement of Security-Enhanced SBOMs for Node.js](https://arxiv.org/abs/2508.13750) Eric Cornelissen, Musard Balliu. ACM Conference on Computer and Communication Security (**CCS’25**), 2025. 
 - [Trust and Verify: Formally Verified and Upgradable Trusted Functions](https://people.kth.se/~musard/research/pubs/icsme25.pdf) Marcus Birgersson, Cyrille Artho, Musard Balliu. Proceedings of the International Conference on Software Maintenance and Evolution (**ICSME'25**), 2025. 
@@ -46,6 +48,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Securing P4 Programs by Information Flow Control](https://arxiv.org/abs/2505.09221) Anoud Alshnakat, Amir M. Ahmadian, Musard Balliu, Roberto Guanciale, Mads Dam. Computer Security Foundations Symposium (**CSF'25**), June 2025.
 - [Dynamic Dependency-Based Purity Checking](https://conf.researchr.org/details/sle-2025/sle-2025-papers/18/Dynamic-Dependency-Based-Purity-Checking) Anton Risberg Alaküla, Niklas Fors, Christoph Reichenbach.  The ACM SIGPLAN International Conference on Software Language Engineering (**SLE'25**), June 2025.
 - [IntraJ: an on-demand framework for intraprocedural Java code analysis](https://link.springer.com/article/10.1007/s10009-024-00771-0) Idriss Riouak, Niklas Fors, Görel Hedin, Christoph Reichenbach. International Journal on Software Tools for Technology Transfer (**STTT'25**), January 2025.
+
 ### 2024
 - [Guidelines for Supporting Software Engineers in Developing Secure Web Applications](https://link.springer.com/chapter/10.1007/978-3-031-78386-9_9) Klara Svensson, Drake Axelrod, Mazen Mohamad, Rebekka Wohlrab. International Conference on Product-Focused Software Process Improvement (**PROFES'24**), **Best Paper Award**, November 2024.
 - [Efficient Demand Evaluation of Fixed-Point Attributes using Static Analysis](https://dl.acm.org/doi/10.1145/3687997.3695644) Idriss Riouak, Niklas Fors, Jesper Öqvist, Görel Hedin, Christoph Reichenbach. The International Conference on Software Language Engineering (**SLE'2024**), 2024. **Distinguished Paper Award** and **Distinguished Artifact Award**, October 2024.
@@ -58,6 +61,8 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Clog: A Declarative Language for C Static Code Checkers](https://dl.acm.org/doi/10.1145/3640537.3641579) Dura, Alexandru and Reichenbach, Christoph. The 33rd ACM SIGPLAN International Conference on Compiler Construction (**CC'24**), February 2024.
 
 # Artifacts 
+- [Classa](https://github.com/KTH-LangSec/classa)
+- [NodeShield](https://github.com/KTH-LangSec/nodeshield)
 - [Dasty](https://github.com/KTH-LangSec/Dasty)
 - [Silent Spring](https://github.com/KTH-LangSec/silent-spring)
 - [Dataset of Server-Side Prototype Pollution vulnerabilities](https://github.com/KTH-LangSec/server-side-prototype-pollution)
