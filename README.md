@@ -31,11 +31,16 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - Alumni: [Idriss Riouak](https://idrissrio.github.io/) (PhD 2024), [Mikhail Shcherbakov](https://www.kth.se/profile/mshc) (PhD 2024), [Alexandru Dura](https://portal.research.lu.se/en/persons/alexandru-dura) (PhD 2025), [Diogo Torres Correia](https://www.kth.se/profile/diogotc) (Amanuensis 2024, MSc 2025), [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/) (PostDoc 2024-2025), Mateus Monteiro Marinheiro (MSc 2025)
 
 # Publications
-## Theses
+## PhD Theses
 - [Fully Declarative Specification of Static Code Checkers](https://lup.lub.lu.se/search/files/217740677/thesis.pdf), Alexandru Dura, **PhD Thesis**, May 2025.
 - [To Secure a Flow: From Specification to Enforcement of Information Flow Control](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1937581&dswid=-3679), Amir M. Ahmadian, **PhD Thesis**, March 2025.
 - [Code-Reuse Attacks in Managed Programming Languages and Runtimes](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1905323&dswid=-4319), Mikhail Shcherbakov, **PhD Thesis**, November 2024.
 - [Towards Declarative Specification of Static Analysis for Programming Tools](https://lucris.lub.lu.se/ws/portalfiles/portal/197490004/Riouak.pdf), Idriss Riouak, **PhD Thesis**, November 2024.
+
+## MSc Theses
+- [ProtoDasty - Multi-Label Taint Detection of Prototype Pollution](https://www.diva-portal.org/smash/get/diva2:2047550/FULLTEXT01.pdf), Mateus Monteiro Marinheiro, **MSc Thesis**, February 2026.
+- [Classa: Uncovering Class Pollution in Python](https://www.diva-portal.org/smash/get/diva2:2051711/FULLTEXT01.pdf), Diogo Torres Correia, **MSc Thesis**, September 2025.
+
 
 ## Research Papers
 
