@@ -26,12 +26,13 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 # Members
 - Principal Investigators: [Musard Balliu](https://people.kth.se/~musard/), [Alexandre Bartel](https://www.abartel.net/), [Christoph Reichenbach](https://creichen.net/), [David Sands](https://www.cse.chalmers.se/~dave/Homepage_David_Sands/Home.html), [Rebekka Wohlrab](https://rebekkaa.github.io/)
 - PostDocs: [Mohammad Ahmadpanah](https://smahmadpanah.github.io/), Timothé Riom
-- PhD students: [Joel Nyholm ](https://www.hh.se/information/sok-personal.html?person=F269B5CC-EE3B-490E-BECA-6BB79A4BFC03), [Anton Risberg Alaküla](https://portal.research.lu.se/sv/persons/anton-risberg-alak%C3%BCla), [Momina Rizwan](https://portal.research.lu.se/sv/persons/momina-rizwan), [Yufei Wu](https://www.umu.se/en/staff/yufei-wu/), [Bruno Kreyßig](https://www.umu.se/en/staff/bruno-kreyssig/), [Sabine Houy](https://www.umu.se/en/staff/sabine-houy/), [Eric Cornelissen](https://www.kth.se/profile/ericco), [SiKai Lu](https://www.kth.se/profile/sikai), [Erik Söderholm Präntare](https://portal.research.lu.se/sv/persons/erik-s%C3%B6derholm-pr%C3%A4ntare), [Janek Stoppkotte](https://www.chalmers.se/en/persons/janekst/)
+- PhD students: [Joel Nyholm ](https://www.hh.se/information/sok-personal.html?person=F269B5CC-EE3B-490E-BECA-6BB79A4BFC03), [Anton Risberg Alaküla](https://portal.research.lu.se/sv/persons/anton-risberg-alak%C3%BCla), [Yufei Wu](https://www.umu.se/en/staff/yufei-wu/), [Bruno Kreyßig](https://www.umu.se/en/staff/bruno-kreyssig/), [Sabine Houy](https://www.umu.se/en/staff/sabine-houy/), [Eric Cornelissen](https://www.kth.se/profile/ericco), [SiKai Lu](https://www.kth.se/profile/sikai), [Erik Söderholm Präntare](https://portal.research.lu.se/sv/persons/erik-s%C3%B6derholm-pr%C3%A4ntare), [Janek Stoppkotte](https://www.chalmers.se/en/persons/janekst/), [Hantang Zhang](https://www.umu.se/en/staff/hantang-zhang/)
 - M.Sc. students: Anton Skorup, Joakim Svensson, Melker Henriksson,  [Fredrik Gölman](https://www.kth.se/profile/golman), Rafael Serra e Oliveira 
-- Alumni: [Idriss Riouak](https://idrissrio.github.io/) (PhD 2024), [Mikhail Shcherbakov](https://www.kth.se/profile/mshc) (PhD 2024), [Alexandru Dura](https://portal.research.lu.se/en/persons/alexandru-dura) (PhD 2025), [Diogo Torres Correia](https://www.kth.se/profile/diogotc) (Amanuensis 2024, MSc 2025), [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/) (PostDoc 2024-2025), Mateus Monteiro Marinheiro (MSc 2025)
+- Alumni: [Idriss Riouak](https://idrissrio.github.io/) (PhD 2024), [Mikhail Shcherbakov](https://www.kth.se/profile/mshc) (PhD 2024), [Alexandru Dura](https://portal.research.lu.se/en/persons/alexandru-dura) (PhD 2025), [Diogo Torres Correia](https://www.kth.se/profile/diogotc) (Amanuensis 2024, MSc 2025), [Raffaela Groner](https://www.chalmers.se/en/persons/raffaela/) (PostDoc 2024-2025), Mateus Monteiro Marinheiro (MSc 2025), [Momina Rizwan](https://portal.research.lu.se/sv/persons/momina-rizwan) (PhD 2025), Anton Skorup (MSc 2025), Joakim Svensson (MSc 2025). 
 
 # Publications
 ## PhD Theses
+- [Safety and Reliability for Autonomous Robots in Dynamic Environments](https://lup.lub.lu.se/search/files/227842814/phd_thesis-momina.pdf), Momina Rizwan, **PhD Thesis**, September 2025.
 - [Fully Declarative Specification of Static Code Checkers](https://lup.lub.lu.se/search/files/217740677/thesis.pdf), Alexandru Dura, **PhD Thesis**, May 2025.
 - [To Secure a Flow: From Specification to Enforcement of Information Flow Control](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1937581&dswid=-3679), Amir M. Ahmadian, **PhD Thesis**, March 2025.
 - [Code-Reuse Attacks in Managed Programming Languages and Runtimes](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1905323&dswid=-4319), Mikhail Shcherbakov, **PhD Thesis**, November 2024.
@@ -45,6 +46,9 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 
 ## Research Papers
 
+### 2026
+- [CFIghter: Automated Control-Flow Integrity Enablement and Evaluation for Legacy C/C++ Systems](https://umu.diva-portal.org/smash/record.jsf?language=sv&pid=diva2%3A2029920&dswid=4845) Sabine Houy, Bruno Kreyßig, Alexandre Bartel. IEEE Secure Development Conference (**SecDev'26**), 2026.
+
 ### 2025
 - [NodeShield: Runtime Enforcement of Security-Enhanced SBOMs for Node.js](https://arxiv.org/abs/2508.13750) Eric Cornelissen, Musard Balliu. ACM Conference on Computer and Communication Security (**CCS'25**), 2025.
 - [Trust and Verify: Formally Verified and Upgradable Trusted Functions](https://people.kth.se/~musard/research/pubs/icsme25.pdf) Marcus Birgersson, Cyrille Artho, Musard Balliu. International Conference on Software Maintenance and Evolution (**ICSME'25**), 2025.
@@ -56,7 +60,11 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [IntraJ: An on-demand framework for intraprocedural Java code analysis](https://link.springer.com/article/10.1007/s10009-024-00771-0) Idriss Riouak, Niklas Fors, Görel Hedin, Christoph Reichenbach. International Journal on Software Tools for Technology Transfer (**STTT'25**), 2025.
 - [CodeX: Contextual Flow Tracking for Browser Extensions](https://dl.acm.org/doi/10.1145/3714393.3726495) Mohammad M. Ahmadpanah, Matías F. Gobbi, Daniel Hedin, Johannes Kinder, Andrei Sabelfeld. ACM Conference on Data and Application Security and Privacy (**CODASPY'25**), 2025. 
 - [Reflex-Plan: A Safety Monitoring Architecture for Thinking Fast and Slow](https://ieeexplore.ieee.org/document/11164059) Momina Rizwan, Christoph Reichenbach, Volker Krueger. IEEE International Conference on Automation Science and Engineering (**CASE'25**), 2025.
-- [Compositional Dataflow Analysis via Abstract Transition Systems](https://hal.science/hal-05188565/document) Greg Bronevetsky, Michael G. Burke, Sriram Aananthakrishnan, Christoph Reichenbach, Zhao Jisheng, Vivek Sarkar. Technical Report, 2025. 
+- [Compositional Dataflow Analysis via Abstract Transition Systems](https://hal.science/hal-05188565/document) Greg Bronevetsky, Michael G. Burke, Sriram Aananthakrishnan, Christoph Reichenbach, Zhao Jisheng, Vivek Sarkar. Technical Report, 2025.
+- [ConfuseTaint: Exploiting Vulnerabilities to Bypass Dynamic Taint Analysis](https://ieeexplore.ieee.org/document/11334608) Yufei Wu, Alexandre Bartel. IEEE/ACM International Conference on Automated Software Engineering (**ASE'25**), 2025.
+- [Sleeping Giants - Activating Dormant Java Deserialization Gadget Chains through Stealthy Code Changes](https://dl.acm.org/doi/10.1145/3719027.3765031) Bruno Kreyßig, Sabine Houy, Timothée Riom, Alexandre Bartel. ACM Conference on Computer and Communications Security (**CCS'25**), 2025.
+- [Bugfuscation](https://dl.acm.org/doi/10.1007/978-3-032-14782-0_29) Alexandre Bartel. Nordic Conference on Secure IT Systems (**NordSec'25**), 2025.
+- [GadgetBuilder: An Overhaul of the Greatest Java Deserialization Exploitation Tool](https://dl.acm.org/doi/10.1007/978-3-032-14782-0_11) Bruno Kreyßig, Sabine Houy, Hantang Zhang, Timothée Riom, Alexandre Bartel. Nordic Conference on Secure IT Systems (**NordSec'25**), 2025.
   
 ### 2024
 - [Guidelines for Supporting Software Engineers in Developing Secure Web Applications](https://link.springer.com/chapter/10.1007/978-3-031-78386-9_9) Klara Svensson, Drake Axelrod, Mazen Mohamad, Rebekka Wohlrab. International Conference on Product-Focused Software Process Improvement (**PROFES'24**), 2024 [**Best Paper Award** 🏆].
