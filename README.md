@@ -40,6 +40,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 ## MSc Theses
 - [ProtoDasty - Multi-Label Taint Detection of Prototype Pollution](https://www.diva-portal.org/smash/get/diva2:2047550/FULLTEXT01.pdf), Mateus Monteiro Marinheiro, **MSc Thesis**, February 2026.
 - [Classa: Uncovering Class Pollution in Python](https://www.diva-portal.org/smash/get/diva2:2051711/FULLTEXT01.pdf), Diogo Torres Correia, **MSc Thesis**, September 2025.
+- [Analyzing the Analyzers: A Benchmarking-Based Evaluation of Static Analysis Tools](https://lup.lub.lu.se/student-papers/record/9203085/file/9203087.pdf) Anton Skorup, Joakim Svensson, **MSc Thesis**, June 2025.
 
 
 ## Research Papers
@@ -54,7 +55,9 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Dynamic Dependency-Based Purity Checking](https://conf.researchr.org/details/sle-2025/sle-2025-papers/18/Dynamic-Dependency-Based-Purity-Checking) Anton Risberg Alaküla, Niklas Fors, Christoph Reichenbach. ACM SIGPLAN International Conference on Software Language Engineering (**SLE'25**), 2025.
 - [IntraJ: An on-demand framework for intraprocedural Java code analysis](https://link.springer.com/article/10.1007/s10009-024-00771-0) Idriss Riouak, Niklas Fors, Görel Hedin, Christoph Reichenbach. International Journal on Software Tools for Technology Transfer (**STTT'25**), 2025.
 - [CodeX: Contextual Flow Tracking for Browser Extensions](https://dl.acm.org/doi/10.1145/3714393.3726495) Mohammad M. Ahmadpanah, Matías F. Gobbi, Daniel Hedin, Johannes Kinder, Andrei Sabelfeld. ACM Conference on Data and Application Security and Privacy (**CODASPY'25**), 2025. 
-
+- [Reflex-Plan: A Safety Monitoring Architecture for Thinking Fast and Slow](https://ieeexplore.ieee.org/document/11164059) Momina Rizwan, Christoph Reichenbach, Volker Krueger. IEEE International Conference on Automation Science and Engineering (**CASE'25**), 2025.
+- [Compositional Dataflow Analysis via Abstract Transition Systems](https://hal.science/hal-05188565/document) Greg Bronevetsky, Michael G. Burke, Sriram Aananthakrishnan, Christoph Reichenbach, Zhao Jisheng, Vivek Sarkar. Technical Report, 2025. 
+  
 ### 2024
 - [Guidelines for Supporting Software Engineers in Developing Secure Web Applications](https://link.springer.com/chapter/10.1007/978-3-031-78386-9_9) Klara Svensson, Drake Axelrod, Mazen Mohamad, Rebekka Wohlrab. International Conference on Product-Focused Software Process Improvement (**PROFES'24**), 2024 [**Best Paper Award** 🏆].
 - [Efficient Demand Evaluation of Fixed-Point Attributes using Static Analysis](https://dl.acm.org/doi/10.1145/3687997.3695644) Idriss Riouak, Niklas Fors, Jesper Öqvist, Görel Hedin, Christoph Reichenbach. International Conference on Software Language Engineering (**SLE'24**), 2024 [**Distinguished Paper Award** and **Distinguished Artifact Award** 🏆].
@@ -65,6 +68,8 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Analyzing Prerequisites of Known Deserialization Vulnerabilities on Java Applications](https://www.abartel.net/static/p/ease2024-javaDeser.pdf) Bruno Kreyssig, Alexandre Bartel. International Conference on Evaluation and Assessment in Software Engineering (**EASE'24**), 2024.
 - [Unveiling the Invisible: Detection and Evaluation of Prototype Pollution Gadgets with Dynamic Taint Analysis](https://people.kth.se/~musard/research/pubs/www24.pdf) Mikhail Shcherbakov, Paul Moosbrugger, Musard Balliu. The Web Conference (**WWW'24**), 2024.
 - [Clog: A Declarative Language for C Static Code Checkers](https://dl.acm.org/doi/10.1145/3640537.3641579) Alexandru Dura, Christoph Reichenbach. ACM SIGPLAN International Conference on Compiler Construction (**CC'24**), 2024.
+- [EzSkiROS: Enhancing Robot Skill Composition with an Embedded DSL for Early Error Detection](https://www.scopus.com/pages/publications/85214998106) Momina Rizwan, Christoph Reichenbach, Ricardo Caldas, Matthias Mayr, Volker Krueger. Frontiers in Robotics and AI, 2024.
+
   
 # Artifacts 
 - [Classa](https://github.com/KTH-LangSec/classa)
