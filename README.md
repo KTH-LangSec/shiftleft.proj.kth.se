@@ -41,7 +41,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 ## MSc Theses
 - [ProtoDasty - Multi-Label Taint Detection of Prototype Pollution](https://www.diva-portal.org/smash/get/diva2:2047550/FULLTEXT01.pdf), Mateus Monteiro Marinheiro, **MSc Thesis**, February 2026.
 - [Classa: Uncovering Class Pollution in Python](https://www.diva-portal.org/smash/get/diva2:2051711/FULLTEXT01.pdf), Diogo Torres Correia, **MSc Thesis**, September 2025.
-- [Analyzing the Analyzers: A Benchmarking-Based Evaluation of Static Analysis Tools](https://lup.lub.lu.se/student-papers/record/9203085/file/9203087.pdf) Anton Skorup, Joakim Svensson, **MSc Thesis**, June 2025.
+- [Analyzing the Analyzers: A Benchmarking-Based Evaluation of Static Analysis Tools](https://lup.lub.lu.se/student-papers/record/9203085/file/9203087.pdf), Anton Skorup, Joakim Svensson, **MSc Thesis**, June 2025.
 
 
 ## Research Papers
