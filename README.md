@@ -48,6 +48,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Securing P4 Programs by Information Flow Control](https://arxiv.org/abs/2505.09221) Anoud Alshnakat, Amir M. Ahmadian, Musard Balliu, Roberto Guanciale, Mads Dam. Computer Security Foundations Symposium (**CSF'25**), 2025.
 - [Dynamic Dependency-Based Purity Checking](https://conf.researchr.org/details/sle-2025/sle-2025-papers/18/Dynamic-Dependency-Based-Purity-Checking) Anton Risberg Alaküla, Niklas Fors, Christoph Reichenbach. ACM SIGPLAN International Conference on Software Language Engineering (**SLE'25**), 2025.
 - [IntraJ: An on-demand framework for intraprocedural Java code analysis](https://link.springer.com/article/10.1007/s10009-024-00771-0) Idriss Riouak, Niklas Fors, Görel Hedin, Christoph Reichenbach. International Journal on Software Tools for Technology Transfer (**STTT'25**), 2025.
+- [CodeX: Contextual Flow Tracking for Browser Extensions](https://dl.acm.org/doi/10.1145/3714393.3726495) Mohammad M. Ahmadpanah, Matías F. Gobbi, Daniel Hedin, Johannes Kinder, Andrei Sabelfeld. ACM Conference on Data and Application Security and Privacy (**CODASPY'25**), 2025. 
 
 ### 2024
 - [Guidelines for Supporting Software Engineers in Developing Secure Web Applications](https://link.springer.com/chapter/10.1007/978-3-031-78386-9_9) Klara Svensson, Drake Axelrod, Mazen Mohamad, Rebekka Wohlrab. International Conference on Product-Focused Software Process Improvement (**PROFES'24**), 2024 [**Best Paper Award** 🏆].
@@ -69,6 +70,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 - [Clog](https://github.com/lu-cs-sde/clog)
 - [JavaDL](https://github.com/lu-cs-sde/metadl)
 - [ExtendJ Extensible Java Compiler](https://extendj.org/)
+- [CodeX](https://smahmadpanah.github.io/papers/10-codaspy25/codex-materials.zip)
 
 # Contact Us
 If you are interested in staying up to date with our research, feel free to email [SiKai Lu](https://www.kth.se/profile/sikai) and ask to be added to the mailing list [shiftleft@kth.se](mailto:shiftleft@kth.se). Please feel free to [contact us](musard@kth.se) if you would like to get in touch.
