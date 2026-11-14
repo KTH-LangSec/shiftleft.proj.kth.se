@@ -48,6 +48,7 @@ ShiftLeft is funded by the  [Wallenberg AI, Autonomous Systems and Software Prog
 ## Research Papers
 
 ### 2026
+- [Empowering Software Engineers to Design More Secure Web Applications: Guidelines and Potential of Using LLMs as a Recommender Tool](https://doi.org/10.1002/smr.70083) Raffaela Groner, Klara Svensson, Drake Axelrod, Ranim Khojah, Mazen Mohamad, Rebekka Wohlrab. Journal of Software: Evolution and Process (**JSEP'26**), 2026.
 - [CFIghter: Automated Control-Flow Integrity Enablement and Evaluation for Legacy C/C++ Systems](https://umu.diva-portal.org/smash/record.jsf?language=sv&pid=diva2%3A2029920&dswid=4845) Sabine Houy, Bruno Kreyßig, Alexandre Bartel. IEEE Secure Development Conference (**SecDev'26**), 2026.
 
 ### 2025
